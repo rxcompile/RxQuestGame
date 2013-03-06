@@ -1,0 +1,8 @@
+﻿<Window x:Class="FgsfdsGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fgsfds Game" MinHeight="350" MinWidth="525" Background="#FFDBFFF8" WindowStyle="ToolWindow" Icon="/FgsfdsGame;component/Resources/Images/HET_Psilocybid.jpg">
+    <Grid>
+        <Frame Margin="2" Name="MainFrame" />
+    </Grid>
+</Window>
